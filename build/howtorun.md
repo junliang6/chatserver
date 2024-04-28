@@ -32,6 +32,10 @@ redis ： `docker run 的时候请指定 -p 6371:6379`，或修改
 环境配置完毕后，到build目录下：
 执行
 
+`rm -rf *`
+
+和
+
 `cmake ..`
 
 和 
@@ -39,3 +43,13 @@ redis ： `docker run 的时候请指定 -p 6371:6379`，或修改
 `make`
 
 然后生成的服务器与客户端的可执行文件在 `../bin` 目录下，即可做测试
+
+启动服务端可用以下命令(在nginx.conf中就配置了两个server)：
+
+`./ChatServer 127.0.0.1 6000`
+
+`./ChatServer 127.0.0.1 6002`
+
+启动客户端可用以下命令(在nginx.conf中listen的端口为8000)：
+
+`./ChatClient 127.0.0.1 8000`
