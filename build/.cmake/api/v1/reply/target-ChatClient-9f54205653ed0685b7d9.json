@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/lxs/Project/cpp_project/ChatServer/bin/ChatClient"
+			"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/bin/ChatClient"
 		}
 	],
 	"backtrace" : 1,
@@ -90,27 +90,27 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/lxs/Project/cpp_project/ChatServer/include"
+					"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/lxs/Project/cpp_project/ChatServer/include/server"
+					"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/include/server"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/lxs/Project/cpp_project/ChatServer/include/server/db"
+					"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/include/server/db"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/lxs/Project/cpp_project/ChatServer/include/server/model"
+					"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/include/server/model"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/lxs/Project/cpp_project/ChatServer/include/server/redis"
+					"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/include/server/redis"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/home/lxs/Project/cpp_project/ChatServer/thirdparty"
+					"path" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/thirdparty"
 				}
 			],
 			"language" : "CXX",

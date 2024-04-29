@@ -777,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/lxs/Project/cpp_project/ChatServer/build",
-		"source" : "/home/lxs/Project/cpp_project/ChatServer"
+		"build" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/build",
+		"source" : "/home/lxs/Project/cpp_project/ChatServer/chatserver"
 	},
 	"version" : 
 	{

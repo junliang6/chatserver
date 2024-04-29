@@ -89,14 +89,14 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-938ecab307276704b968.json",
+					"jsonFile" : "target-ChatClient-9f54205653ed0685b7d9.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "ChatServer::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-ChatServer-0ff4b8fdf6bec4fee477.json",
+					"jsonFile" : "target-ChatServer-ac67e1c56f82004706a4.json",
 					"name" : "ChatServer",
 					"projectIndex" : 0
 				}
@@ -106,8 +106,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/lxs/Project/cpp_project/ChatServer/build",
-		"source" : "/home/lxs/Project/cpp_project/ChatServer"
+		"build" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/build",
+		"source" : "/home/lxs/Project/cpp_project/ChatServer/chatserver"
 	},
 	"version" : 
 	{

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/lxs/Project/cpp_project/ChatServer/build"
+			"value" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/lxs/Project/cpp_project/ChatServer/build/CMakeFiles/pkgRedirects"
+			"value" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -607,7 +607,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/lxs/Project/cpp_project/ChatServer"
+			"value" : "/home/lxs/Project/cpp_project/ChatServer/chatserver"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/lxs/Project/cpp_project/ChatServer/build"
+			"value" : "/home/lxs/Project/cpp_project/ChatServer/chatserver/build"
 		},
 		{
 			"name" : "chat_IS_TOP_LEVEL",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/lxs/Project/cpp_project/ChatServer"
+			"value" : "/home/lxs/Project/cpp_project/ChatServer/chatserver"
 		}
 	],
 	"kind" : "cache",
